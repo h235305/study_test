@@ -5,7 +5,8 @@ int main()
 {
 
   more try;
-  more 
+
+  printf("hello github !");
 return 0;
 
 }
